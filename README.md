@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PetyaFerreiraDeveloper
+- 👋 Hi, I’m Petya
 - 👀 I’m interested in all javascript related projects.
 - 🌱 Tech stack: NextJS, Typescript, React, Tailwind, CSS, HTML
 - 💞️ I’m looking to collaborate on projects with React, NextJS, JS, Tailwind
